@@ -1,0 +1,16 @@
+Prarambh
+    x Sanga 10;
+    y Sanga 20;
+    z Sanga x + y;
+
+    Mudrit "The sum of x and y is:";
+    Mudrit z;
+
+    Jar z > 25 : Mudrit "Sum is greater than 25."; Nahitar : Mudrit "Sum is less than or equal to 25.";
+
+    Sathi i Sanga 1 Paryant 5 :
+        Mudrit "Loop iteration number:";
+        Mudrit i;
+    Parat;
+
+Shevat
